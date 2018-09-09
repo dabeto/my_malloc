@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.version     = '0.0.1'
   gem.authors     = 'Daniel Rodríguez'
   gem.email       = 'dabeto@gmail.com'
-  gem.extensions  = %w["ext/my_malloc/extconf.rb"]
+  gem.extensions  = ["ext/my_malloc/extconf.rb"]
   #gem.homepage    = 'https://github.com/meskyanichi/mongoid-paperclip'
   gem.summary     = 'MyMalloc'
   gem.description = 'MyMalloc'
